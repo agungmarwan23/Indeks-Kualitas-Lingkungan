@@ -14,9 +14,7 @@ Agung Nugraha Marwan
 
 src/: Berisi source code yang digunakan untuk analisis dan pemrosesan data.
 
-data/raw/: Berisi data mentah yang digunakan dalam pembentukan indeks.
-
-data/processed/: Berisi data hasil olahan dari proses analisis.
+data/: Berisi data mentah dan data hasil olahan yang digunakan dalam pembentukan indeks.
 
 images/: Berisi gambar-gambar yang relevan dengan penelitian dan hasil analisis.
 
