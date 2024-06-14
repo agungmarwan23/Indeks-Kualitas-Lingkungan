@@ -1,0 +1,23 @@
+- Pengambilan Data CO:
+https://code.earthengine.google.com/f11bc30d3ac045ef9b81e543135452f7?noload=true
+
+- Pengambilan Data LST:
+https://code.earthengine.google.com/b5a22d05f51422ffc082f7ce471e9803?noload=true
+
+- Pengambilan Data NDVI:
+https://code.earthengine.google.com/efa7a3c2d915513bb9493dc51e75ad8a?noload=true
+
+- Pengambilan Data NO2:
+https://code.earthengine.google.com/183c3c3ec4b9ef06022a7a44b5561a18?noload=true
+
+- Pengambilan Data NTL:
+https://code.earthengine.google.com/e8ad6d910958702cf2e2cee970fb5337?noload=true
+
+- Pengambilan Data AOD:
+https://code.earthengine.google.com/8097a973752fe8619a102328bfbfb498?noload=true
+
+- Pengambilan Data SO2:
+https://code.earthengine.google.com/fd1c1603c28127c600268396c518c4ed?noload=true
+
+- Pengambilan Data TSS (Mengekstrak Data Sentinel-2 Keseluruhan)
+https://code.earthengine.google.com/dab848e36df586e6affa7e8ec4c7db64?noload=true
